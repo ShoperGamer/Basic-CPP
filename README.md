@@ -95,5 +95,3 @@ We welcome contributions from everyone! 🎉 If you have a C++ project you'd lik
 ### License 📜
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
